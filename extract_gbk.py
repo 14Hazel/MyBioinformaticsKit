@@ -1,4 +1,4 @@
-# -*- encoding utf-8 -*-
+# -*- coding: utf-8 -*-
 import sys,os
 from Bio import GenBank
 from Bio import SeqIO
